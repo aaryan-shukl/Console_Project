@@ -1,0 +1,7 @@
+#project_body {
+    background: linear-gradient(to bottom, #ff0000be 0%, #fbff00c7 100%);
+    text-align: center;
+}
+h1 {
+    color: linear-gradient(to bottom, #df7904 0%, #573d06c7 100%);
+}
